@@ -1,0 +1,12 @@
+Greedy Algorthm
+The easiest way to get somewhere
+
+
+Greedy Algorthms arent always bad but they dont always give the right answer 
+
+
+63 Cents --> [1,21,25]
+
+Path 1: 63-[1] = 62
+Path2: 63-21 = 42
+Path 3 : 63-25

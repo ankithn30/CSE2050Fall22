@@ -1,0 +1,10 @@
+cards = []
+
+for s in ["diamond","squiggle","ovals"]:
+    for z in ['red','green','purple']:
+        # for x in ['striped','solid','open']:
+        #     for y in range(1,4):
+        cards.append(s)
+        cards.append(z)
+print(cards)
+

@@ -1,0 +1,26 @@
+Students
+age
+.update()
+gpa
+.update()
+major
+.update()
+name
+.update()
+
+.add_course()
+
+#unit test gives a lot of good information
+Runs all the tests and then says if there is an error 
+
+inhertiance 
+
+
+
+#when designing code in OOP, using inhertiance is DANGEROUS
+You only use it in specfic sitatuons 
+
+Person HAS A NAME AND HAS A NETID 
+
+Compositon has a relationship
+I heraitnce IS A relationship

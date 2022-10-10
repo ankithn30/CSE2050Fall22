@@ -1,0 +1,14 @@
+Students
+age
+.update()
+gpa
+.update()
+major
+.update()
+name
+.update()
+
+.add_course()
+
+#unit test gives a lot of good information
+Runs all the tests and then says if there is an error 

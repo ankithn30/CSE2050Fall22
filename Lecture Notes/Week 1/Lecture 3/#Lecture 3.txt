@@ -1,0 +1,28 @@
+#Lecture 3
+
+
+namespaces.
+
+File1
+x=27
+def mult(p1)
+    return p1*x
+mult(1) -> 27
+mult(2) -> 54
+
+
+File2:
+import File1
+
+File1.multiply(3)
+x=4
+File1.mult(3)
+#this would give you 12
+
+
+
+#few techniquies
+#1. import (module)
+#2. from (module) import
+# 3. import module as nickname 
+# 4. from module import * (DON'T USE THIS) not reccomended  
